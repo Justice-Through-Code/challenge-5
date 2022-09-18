@@ -20,6 +20,7 @@ Begin getting comfortable with for loops and while loops
 
 Follow the instructions in both `week_days.py` to complete this challenge. 
 
+And REMEMBER: Comment out or delete the calls to your functions-- the tests can't run with them!
 ---
 
 ## Summary
